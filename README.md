@@ -1,4 +1,4 @@
-# 🌑🌌 _Welcome to Purple Moon Inc – where innovation meets the cosmic frontier!_
+# _Welcome to Purple Moon Inc – where innovation meets the cosmic frontier!_
 ![cover](https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/415227439_7171831232853440_5711546110953460637_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=783fdb&_nc_ohc=gwGEXh7LA8oAX_FHoie&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfA_fDzita0GSYYH59Rgw0joIYPned0Ym9eoi3liDoacTQ&oe=65B3C716)
 
 👩‍🚀👩‍🚀 **Who Are We?**  
