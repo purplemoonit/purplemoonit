@@ -1,5 +1,5 @@
 # 🌑🌌 _Welcome to Purple Moon Inc – where innovation meets the cosmic frontier!_
-![Logo](https://scontent.ftbs4-2.fna.fbcdn.net/v/t39.30808-6/415227439_7171831232853440_5711546110953460637_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=783fdb&_nc_ohc=tNgQsb0tAr4AX_4HyHA&_nc_ht=scontent.ftbs4-2.fna&oh=00_AfDFH5NVs_WzUvyGK2GtxEwFcVv0FDcqpD8iJM_t8Tecaw&oe=659A11D6)
+![cover](https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/415227439_7171831232853440_5711546110953460637_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=783fdb&_nc_ohc=gwGEXh7LA8oAX_FHoie&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfA_fDzita0GSYYH59Rgw0joIYPned0Ym9eoi3liDoacTQ&oe=65B3C716)
 
 👩‍🚀👩‍🚀 **Who Are We?**  
 At Purple Moon, we're not just your typical IT company. We're like a tech spaceship navigating through the vast cosmic landscape of challenges and possibilities. Picture this: our team of intergalactic developers, designers, and engineers soaring through the digital cosmos, exploring the realms of code, and turning the ordinary into the extraordinary.
